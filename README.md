@@ -144,3 +144,28 @@ DOTween / Pooling 기반으로 상태 변화와 보상 획득을
 
 - 보상 수렴 이펙트
 <img width="800" height="450" alt="ezgif-16766a221cf6df7c" src="https://github.com/user-attachments/assets/ef57c1f6-bacc-4942-8f57-89525eb90bf9" />
+---
+
+### Commit 메시지 규칙
+
+- Feat : 새로운 기능 추가
+- Fix : 버그 수정
+- Design : UI 디자인 변경
+- HOTFIX : 치명적인 에러 긴급 수정
+- Comment : 주석 추가 / 변경
+- Docs : 문서 수정
+- Style : 코드 포맷팅, 세미콜론 누락 등 코드 변경 없는 수정
+- Refactor : 코드 리팩토링
+- Test : 테스트 코드 추가 / 수정
+- Chore : 빌드 설정, 패키지 매니저 수정
+- Rename : 파일 / 폴더명 수정 및 이동
+- Remove : 파일 삭제만 수행한 경우
+
+### 프로젝트 폴더 관리 방
+
+- 0.Scripts : 기능별 스크립트 관리
+- 1.Prefabs : 프리팹 리소스 관리
+- 2.Scenes : 씬 파일 관리
+- 3.Animations : 애니메이션 관련 파일 관리
+- 4.Materials : 머티리얼 리소스 관리
+- 6.DataTable : CSV / 데이터 테이블 관리
